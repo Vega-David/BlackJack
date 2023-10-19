@@ -1,6 +1,6 @@
 //Llamo a los elementos HTML para usarlos y darles sus diferentes funciones o aplicarle textos
 var boton=document.getElementById("unaMas")
-var plantarse=document.getElementById("plantarse")
+var plantarse=document.getElementById("plantarse") 
 var mostrarPuntaje=document.getElementById("puntaje")
 var plantado=document.getElementById("plantado")
 var reiniciarB=document.getElementById("reiniciar")
